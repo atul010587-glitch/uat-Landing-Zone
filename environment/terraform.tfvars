@@ -3,7 +3,7 @@ rgs = {
     name     = "uat-rg"
     location = "centralindia"
   }
-   rg2 = {
+  rg2 = {
     name     = "aaj-ka-arjun-rg"
     location = "centralindia"
   }
